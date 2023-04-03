@@ -9,6 +9,6 @@ Testcases For holiday autos website
 # Also we can run the test in the terminal by using mvn test
 # The reports are generated in the src/Target folder cucumber-report.html
 # NOTE: Sometimes the  website doesnot open properly so we need to rerun the tests for it to get passed
-#
+# Manual Testcases are uploaded the folder(Testcase (1).xlsx)
 #
 #
